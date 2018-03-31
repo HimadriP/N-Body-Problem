@@ -9,6 +9,7 @@ The Algorithm has been implemented on OpenMP and CUDA and the graphs were plotte
 Two separate versions of the algorithm (parallelizing two separate secctions) has been implemented on OpenMP.
 The First one parallelizes the `ComputeMassDistribution` function and the second one parallelizes the `ComputeForce` function.
 Results are depicted in the graphs which were plotted.
+References : http://iss.ices.utexas.edu/Publications/Papers/burtscher11.pdf
 
 ## Input
 Input used is the galatic datasets of princeton.edu.
